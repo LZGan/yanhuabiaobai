@@ -1,1 +1,1 @@
-https:///LZGan/yanhuabiaobai/blob/main/fire.html
+https://LZGan/yanhuabiaobai/fire.html
