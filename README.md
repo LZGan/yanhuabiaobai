@@ -1,1 +1,2 @@
-https://LZGan/yanhuabiaobai/fire.html
+https://LZGan.github.io/yanhuabiaobai/fire.html
+
