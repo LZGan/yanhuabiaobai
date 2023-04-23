@@ -1,2 +1,2 @@
-https://LZGan.github.io/yanhuabiaobai/fire.html
+[https://github.com/LZGan/yanhuabiaobai.git](https://github.com/LZGan/yanhuabiaobai.git)
 
